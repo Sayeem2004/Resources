@@ -1,4 +1,4 @@
-# Competitive Programming
+# Images
 
 ## Introduction
 
